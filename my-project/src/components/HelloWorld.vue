@@ -1,5 +1,9 @@
 <template>
   <div class="hello">
+    <img src="./../assets/logo.png">
+    <img src="http://i2.hdslb.com/bfs/archive/b0be0d74a383b246f842240bf0fd50b4bc8b0dcf.jpg">
+    <img src="./../assets/2854437738824178629.jpg">
+    <img src="./../../static/img/o_touxiang.jpg">
     <h1>{{ msg }}</h1>
   </div>
 </template>
