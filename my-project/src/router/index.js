@@ -4,6 +4,7 @@ import HelloWorld from '@/components/HelloWorld'
 import Foo from '@/components/Foo'
 import FormTest from '@/components/FormTest'
 import Show from '@/components/Show'
+import ShowJson from '@/components/ShowJson'
 
 Vue.use(Router)
 
@@ -23,6 +24,11 @@ export default new Router({
       path: '/show',
       name: 'show',
       component: Show
+    },
+    {
+      path: '/showJson',
+      name: 'showJson',
+      component: ShowJson
     },
     {
       path: '/foo',

@@ -5,6 +5,8 @@
     <img src="./../assets/2854437738824178629.jpg">
     <img src="./../../static/img/o_touxiang.jpg">
     <h1>{{ msg }}</h1>
+
+    // http://localhost:8081/static/json/json_demo.json
   </div>
 </template>
 
